@@ -1,5 +1,5 @@
 # francescobianco (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--04--03%2008%3A18%3A20%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--04--10%2008%3A18%3A27%20UTC-blue)
 ###  Awesome Lists :sunglasses:
 * [francescobianco/awesome-api](https://github.com/francescobianco/awesome-api)  - A curated list of awesome resources for design and implement RESTful API's.
 A curated list of awesome resources for design and implement RESTful API's.
