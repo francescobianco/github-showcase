@@ -1,5 +1,5 @@
 # francescobianco (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--08--14%2008%3A19%3A23%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--08--21%2008%3A20%3A06%20UTC-blue)
 ###  Miscellaneous :briefcase:
 * [francescobianco/age-of-developers](https://github.com/francescobianco/age-of-developers)  - Age of Developers
 * [francescobianco/asdf](https://github.com/francescobianco/asdf)  - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
