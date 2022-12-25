@@ -1,7 +1,9 @@
 # francescobianco (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2022--12--18%2008%3A16%3A29%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2022--12--25%2008%3A16%3A44%20UTC-blue)
 ###  Miscellaneous :briefcase:
-* [francescobianco/age-of-developers](https://github.com/francescobianco/age-of-developers)  - 
+* [francescobianco/age-of-developers](https://github.com/francescobianco/age-of-developers)  - Age of Developers
 * [francescobianco/arxiv](https://github.com/francescobianco/arxiv)  - 
-* [francescobianco/asdf](https://github.com/francescobianco/asdf)  - 
-* [francescobianco/assets](https://github.com/francescobianco/assets)  - 
+* [francescobianco/asdf](https://github.com/francescobianco/asdf)  - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+* [francescobianco/assets](https://github.com/francescobianco/assets)  - Assets management
