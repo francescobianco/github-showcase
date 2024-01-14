@@ -1,5 +1,5 @@
 # francescobianco (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2024--01--07%2008%3A15%3A52%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2024--01--14%2008%3A16%3A01%20UTC-blue)
 ###  Miscellaneous :briefcase:
 * [francescobianco/acc](https://github.com/francescobianco/acc)  - Allegro Code Craft
 * [francescobianco/age-of-developers](https://github.com/francescobianco/age-of-developers)  - Age of Developers
