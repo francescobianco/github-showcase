@@ -1,5 +1,5 @@
 # francescobianco (showcase)
-![Last Update](https://img.shields.io/badge/Last%20Update-2025--04--27%2008%3A21%3A23%20UTC-blue)
+![Last Update](https://img.shields.io/badge/Last%20Update-2025--05--04%2008%3A21%3A43%20UTC-blue)
 ###  Websites :earth_africa:
 * [francescobianco/alphabetor](https://github.com/francescobianco/alphabetor)  - Be smart from A to Zetor
 ###  Miscellaneous :briefcase:
